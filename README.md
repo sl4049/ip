@@ -1,0 +1,12 @@
+# Proposal
+a. Inquiry Question 
+For my MA project I’d like to explore the intersection of instructional technology and a very specific kind of art - screenwriting. Having interned at several film production companies, I have spent hours after hours reading and revising scripts that cannot get a “pass” because they fail to follow industry standard, despite their brilliant concepts. When I first started learning the basics of successful screenwriting, I was handed a pile of classic textbooks – the traditional way. During my time at TC I have been trained to design better learning experience, so naturally I came up with the question – how can digital technology help writers learn the craft of screenwriting more effectively? As I am interested in working in film production after graduate, this project will allow me to develop a deeper understanding of the screenwriting process and to give better advice in the future.
+
+b. Problem Statement 
+Most of the available screenwriting software focus on formatting and word-processing, and hardly contain any instructional elements – users are supposed to know exactly what they are doing. On the other hand, this art/craft is still taught and learned in traditional ways, such as lectures and textbooks, where practice is delayed or absent. The gap between training and available technology may create barriers for prospective writers who are new to the business. Even experienced writers can benefit from necessary promopt as it allows them to start with preliminary ideas and to build on them. 
+
+c. Project Description and Goal 
+In this project I would like to bridge the instructional and the practical aspects of screenwriting with the help of digital technology. The final product will be a web app that helps users learn the metrics of screenwriting by guiding them to write their own script step by step, from the tagline to the final draft. There will be two central features, the instructional and the practical, closely intertwined with each other. At the same time, the system will provide different levels of scaffolding to accommodate different levels of experience. After their guided practice, even those who have not received professional education will be able to follow the specs of screenwriting to compose their own stories.  
+
+d. Literature List 
+Screenwriting techniques; digital storytelling; scaffolding; word-processing software 
